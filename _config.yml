@@ -13,5 +13,5 @@ production_url : http://KenzieChen.github.io
 comments :
   provider : disqus
   disqus :
-    short_name : KenzieChen-blog
+    short_name : kenziechen
 
