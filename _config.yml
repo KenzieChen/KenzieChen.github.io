@@ -3,6 +3,8 @@ exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 highlighter:  rouge/pygments
 markdown: kramdown
 paginate: 10
+title : 庄的博客
+tagline: 我是我，我是谁。
 author :
   name : KenzieChen
   email : 595612343@qq.com
