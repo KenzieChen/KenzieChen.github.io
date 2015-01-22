@@ -1,6 +1,8 @@
 permalink: /:title 
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
-highlighter:  rouge/pygments
+#高亮显示
+highlighter: pygments
+#markdown文件的渲染引擎，此外还有maruku，rdiscount，redcarpet 等Markdwon渲染引擎
 markdown: kramdown
 paginate: 10
 title : 庄的博客
