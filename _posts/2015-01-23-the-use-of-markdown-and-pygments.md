@@ -3,11 +3,11 @@ layout: post
 title: markdown和pygments的使用
 category: 实用
 tags: [markdown]
-excerpt: 用Markdown语法和pygments高亮写博客。
+excerpt: 我用github和jekyll建立了自己的博客站点，用Markdown语法和pygments高亮写博客，直接用一些简单的标签，利用本地编辑器进行文本编辑，在本地调试预览，编辑完成后发布到github上，省去了在线博客排版，实现简单高效的博客编辑。
 ---
 我用`github`和`jekyll`建立了自己的博客站点，用`Markdown`语法和`pygments`高亮写博客，直接用一些简单的标签，利用本地编辑器进行文本编辑，在本地调试预览，编辑完成后发布到`github上`，省去了在线博客排版，实现简单高效的博客编辑。
 
-以下是格式测试：
+以下是对Markdown和pygments的测试：
 
 标题一
 ======
